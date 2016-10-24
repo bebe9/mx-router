@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+    <title>MxRouter Example</title>
+    <link rel="stylesheet" href="./css/main.css"/>
+</head>
+
+<body>
+
+<div id="container" class="container"></div>
+
+<script type="text/html" id="tpl_home">
+
+    <div class="hd">
+        This is Home Page
+    </div>
+
+    <a class="btn" href="#/article">article list</a>
+    <a class="btn" href="#/detail">article detail</a>
+
+</script>
+
+
+<script type="text/html" id="tpl_article">
+    <div class="hd">
+        This is Article Page
+    </div>
+    <div>
+        <a class="btn" href="#/">back home ></a>
+    </div>
+</script>
+
+<script type="text/html" id="tpl_detail">
+    <div class="hd">
+        This is Detail Page
+    </div>
+    <div>
+        <a class="btn" href="#/">back home ></a>
+    </div>
+</script>
+
+
+<script src="./js/zepto.min.js"></script>
+
+<script src="./js/mx.js"></script>
+<script src="./js/mxrouter.js"></script>
+<script src="app.js"></script>
+
+</body>
+</html>
