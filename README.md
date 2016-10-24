@@ -1,9 +1,13 @@
-# mxrouter
+# mxrouter version v2.0
+
+update @ 2016.10.23
+
 this is a smart and faster router
 
-### mxrouter (https://github.com/bebe9/mxrouter)
+created by ck(mxstrong@126.com)  2016.10.13
 
-###　the simplest version v2.0
+
+##### mxrouter (https://github.com/bebe9/mxrouter)
 
 
 ### how to init a app
@@ -50,11 +54,7 @@ this is a smart and faster router
     MxRouter.setDefault('/').init();
     
     
-this is core version , with basic component
-
-created by ck  2016.10.13
-
-mxstrong@126.com
 
 Copyright 2016
+
 Licensed under the  MIT license
