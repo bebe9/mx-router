@@ -5,8 +5,6 @@ this is a smart and faster router
 
 ###　the simplest version v2.0
 
-Copyright 2016
-Licensed under the  MIT license
 
 ### how to init a app
 
@@ -51,9 +49,12 @@ Licensed under the  MIT license
 
     MxRouter.setDefault('/').init();
     
-
+    
 this is core version , with basic component
 
 created by ck  2016.10.13
 
 mxstrong@126.com
+
+Copyright 2016
+Licensed under the  MIT license
