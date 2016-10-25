@@ -1,4 +1,4 @@
-# mxrouter version v2.0
+# mx-router version v2.0
 
 update @ 2016.10.23
 
@@ -7,7 +7,7 @@ this is a smart and faster router
 created by ck(mxstrong@126.com)  2016.10.13
 
 
-##### mxrouter (https://github.com/bebe9/mxrouter)
+##### mx-router (https://github.com/bebe9/mxrouter)
 
 
 ### how to init a app
